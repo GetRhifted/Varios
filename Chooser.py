@@ -6,7 +6,6 @@ def chooser():
     seleccion = random.choice(opciones)
     print(f'La opcion seleccionada es {seleccion}!')
 
-chooser()
 
 if __name__ == '__main__':
     chooser()
